@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(39, 39, 39);
+}
+
+.logo{
+    width: 600px;
+    height: 600px;
+}
+
+.haut{
+    display: flex;
+    justify-content: center;
+}
+
+.access{
+    margin-right: 5px;
+}
+
+h1{
+    margin-top: 4px;
+    margin-left: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.code{
+    width: 111px;
+    height: 43px;
+    background-color: red;
+}
+
+h1 span{
+    color: red;
+}
+
+.fin_code h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    margin-left: 10px;
+}
+
+.ligne{
+    width: 250px;
+    height: 1px;
+    margin-top: -19.900px;
+    margin-left: 178px;
+
+    background-color: white;
+}
+
+.school{
+    font-family: Arial, Helvetica, sans-serif ;
+    margin-left: 29px;
+    letter-spacing: 29px;
+    font-size: 16px;
+    text-align: center;
+    color: rgb(216, 216, 216);
+    margin-top: -14px;
+    margin-left: 35px;
+}
